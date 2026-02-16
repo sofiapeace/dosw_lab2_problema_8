@@ -8,9 +8,7 @@
 ## Reto 8: El Zoológico de los UML
 
 **Evidencia:**
-![Captura](images/evi.png)
-**Descripción:**
-
+![Captura](images/evi.jpeg)
 
 ### Aplicación de Principios SOLID
 ### S – Single Responsibility 
