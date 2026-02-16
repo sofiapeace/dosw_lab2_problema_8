@@ -1,7 +1,8 @@
 # DOSW-Bootcamp-Laboratorio-02
 
 ## Integrantes
--
+- Gina Sofia Garcia Zapata
+- Juan Diego Patino Munoz
 
 ---
 
