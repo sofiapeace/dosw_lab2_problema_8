@@ -134,9 +134,3 @@ Aplicado en:
 * LimpiarHabitatCommand
 
 Encapsula las acciones realizadas por los cuidadores como objetos independientes, permitiendo extender el sistema sin modificar la clase Cuidador y al Animal a futuras o cambios en las interacciones entre ambos objetos.
-
-
-
----
-
-
